@@ -1,3 +1,7 @@
+# Skill 10: React StudentManager using useState
+
+Student Manager is a React app built with Vite for adding, viewing, and managing student records with useState.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
